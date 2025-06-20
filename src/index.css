@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+@layer{
+    .inputCheck{
+        @apply flex items-center gap-3;
+    }
+}
